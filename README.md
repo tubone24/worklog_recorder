@@ -4,6 +4,12 @@ Deno on SlackAppを利用して、Slack上で作業ログを記録するため�
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/7176fd5c-104c-4483-aa8e-40cdaedbc604
+
+
+
+
 ## How to use
 
 ### Preparation
